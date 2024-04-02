@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Daniel Gillis's Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/your_url
+  repo-url: https://github.com/AnonymousChinchilla312/dgillis_resume
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: "Daniel Gillis 2023©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/daniel-gillis-6753522b3/
 
   navbar:
     background: primary
@@ -45,22 +45,22 @@ website:
       contents:
         - text: "DS250 Projects"
           file: projects.qmd
-        - text: "---"
+        - text: "Projects"
         - text: "Project 1"
-          file: Projects/project1.qmd
-        - text: "---"
+          file: https://github.com/AnonymousChinchilla312/dgillis_resume/tree/main/Time%20Travel%20Game
+        - text: "Time Travel Game"
         - text: "Project 2"
-          file: Projects/project2.qmd
-        - text: "---"
+          file: https://github.com/AnonymousChinchilla312/dgillis_resume/tree/main/Calculator
+        - text: "Calculator"
         - text: "Project 3"
-          file: Projects/project3.qmd
-        - text: "---"
+          file: https://github.com/AnonymousChinchilla312/dgillis_resume/tree/main/City%20Happiness%20Data%20Analysis
+        - text: "City Happiness Data Analysis"
         - text: "Project 4"
-          file: Projects/project4.qmd
-        - text: "---"
+          file: dgillis_resume_Fibonacci at main · AnonymousChinchilla312_dgillis_resume
+        - text: "Fibonacci Generator"
         - text: "Project 5"
-          file: Projects/project5.qmd
-        - text: "---"
+          file: https://github.com/AnonymousChinchilla312/dgillis_resume/tree/main/Machine%20Learning%20with%20Naive%20Bayes
+        - text: "Machine Learning with Naive Bayes"
         #continue the pattern if you need more links
         #copy paste from title and keep it indented to sidebar to add additonal sidebar navigation for other pages
 
