@@ -1,89 +1,65 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Daniel Gillis's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# DANIEL GILLIS
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="computerscience@byui.edu">computerscience@byui.edu</a>
+| <a href="https://byuicomputerscience.github.io/development.html">Computer Science Program</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2022`
+__Salt Lake Community College__, Taylorsville, UT
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- AS Degree: Computer Science
 
-- Sizar
+`2023-PRESENT`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Major: Computer Science & Information Systems
+- Expected BS Degree Date: DEC 2025
+- Taken multiple Computer Science and Information Systems classes, which include:
+    * Technical Teamwork
+    * Data Intuition and Insight
+    * Programming w/ Functions
+    * Parallelism and Concurrency
+    * Programming w/ Data Structures
+- Reference by request.
 
 
 
-## Publications
+## Related Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Internship
 
-### Journals
+`May 2022 - PRESENT`
+__CVS Health__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Created interactive graphs for data insights in Power BI.
+- Gathered datasets in SQL and organized them for analysis.
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Projects
 
-- Warden
-- Minted coins
+- Implementing visuals to show insights from a public database in Python.
+- Created a basic program to simulate a tabletop game with AI opponents in Python.
+- Created a program to perform logarithmic and trigonometric operations while handling invalid input in C++.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Skills
 
-
+- Python including Pandas and Plotly - - Express
+- JavaScript
+- C++
+- Power BI
+- Tableau
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2024 -->
