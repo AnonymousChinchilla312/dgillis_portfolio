@@ -3,7 +3,6 @@ layout: resume
 title: Daniel Gillis's Resume
 ---
 # DANIEL GILLIS
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="computerscience@byui.edu">computerscience@byui.edu</a>
