@@ -7,8 +7,8 @@ subtitle: "Repo for all my Projects"
 # DS250 Projects
 ## Repo for all my Projects
 
-- [Project 1](/Projects/project1.qmd)
-- [Project 2](/Projects/project2.qmd)
-- [Project 3](/Projects/project3.qmd)
-- [Project 4](/Projects/project4.qmd)
-- [Project 5](/Projects/project5.qmd)
+- [City Happiness Data Analysis](https://github.com/AnonymousChinchilla312/City-Happiness-Index)
+- [Fibonacci Sequence Generator](https://github.com/AnonymousChinchilla312/Fibonacci)
+- [Calculator](https://github.com/AnonymousChinchilla312/Calculator_CPP)
+- [Puzzle Game Project](https://github.com/AnonymousChinchilla312/Time-Travel-Game)
+- [Hello World](https://github.com/AnonymousChinchilla312/Hello_World)
